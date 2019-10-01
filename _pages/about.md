@@ -22,25 +22,25 @@ Publications
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** (single author) <br/>
 IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017. (SCIE, Impact Factor: 4.337) <br/>
-\[paper\](https://ieeexplore.ieee.org/abstract/document/7331284) 
+[paper](https://ieeexplore.ieee.org/abstract/document/7331284) 
 
 
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** (single author) <br/>
 Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor: 1.232) <br/>
-\[paper\](https://ieeexplore.ieee.org/document/7444256)
+[paper](https://ieeexplore.ieee.org/document/7444256)
 
 
 - **A Self-Calibrated Localization System using Chirp Spread Spectrum in a Wireless Sensor Network** <br/>
 **Seong-Joong Kim** and Dong-Joo Park (corresponding author) <br/>
 KSII Transactions on Internet and Information Systems, vol. 7, no. 2, pp. 253-270, Feb. 2013. (SCIE, Impact Factor: 0.611) <br/>
-\[paper\](http://www.itiis.org/digital-library/manuscript/480)
+[paper](http://www.itiis.org/digital-library/manuscript/480)
 
 
 - **Network Bridge System for Inter-operation of ZigBee-UPnP Network** <br/>
 **Seong-Joong Kim**, Hae-Moon Seo, Woo-Chool Park, and Seong-Dong Kim <br/>
 IEEE ICINIS 2011, Kunming, China, Nov. 2011. <br/>
-\[paper\](https://ieeexplore.ieee.org/document/6104709)
+[paper](https://ieeexplore.ieee.org/document/6104709)
 
 
 Talks
@@ -49,7 +49,7 @@ Talks
 - **Broken Fingers: A Deep Dive Into Open Source Fingerprint Authentication and its Security Issues** <br/>
 **Seong-Joong Kim** <br/>
 Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
-\[slides\](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
+[slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
 
 
 Reported Vulnerability
