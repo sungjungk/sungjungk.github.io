@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,7 +32,7 @@ Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor
 
 
 - **A Self-Calibrated Localization System using Chirp Spread Spectrum in a Wireless Sensor Network** <br/>
-**Seong-Joong Kim** (single author) <br/>
+**Seong-Joong Kim** and Dong-Joo Park (corresponding author) <br/>
 KSII Transactions on Internet and Information Systems, vol. 7, no. 2, pp. 253-270, Feb. 2013. (SCIE, Impact Factor: 0.611)
 [paper](http://www.itiis.org/digital-library/manuscript/480)
 
@@ -62,6 +62,7 @@ Reported Vulnerability
 - CVE-2019-13603
 - CVE-2019-13604
 - CVE-2019-13621
+
 
 CV
 ======
