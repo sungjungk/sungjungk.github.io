@@ -63,8 +63,3 @@ Reported Vulnerability
 - CVE-2019-13604
 - CVE-2019-13621
 
-
-CV
-======
-
-Here's my [CV](https://sungjungk.github.io/cv)
