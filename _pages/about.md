@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of research staff at the National Security Research Institute. 
+I am a member of research staff at Attached Institute of ETRI. 
 Prior to that, I was a researcher at TmaxSoft R&D Center for alternative service as mandatory military service duty. 
 Also, I interned at Samsung Electronics in the capacity of a Software Engineer. 
 I am also a recipient of the Samsung Electronics Scholarship.
@@ -55,11 +55,12 @@ Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 201
 Reported Vulnerability
 ======
 
-- CVE-2018-19358
-- CVE-2018-20781
-- CVE-2018-20840
-- CVE-2019-12813
-- CVE-2019-13603
-- CVE-2019-13604
-- CVE-2019-13621
+- [CVE-2018-19358](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19358)
+- [CVE-2018-20781](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20781)
+- [CVE-2018-20840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20840)
+- [CVE-2019-12813](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12813)
+- [CVE-2019-13603](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13603)
+- [CVE-2019-13604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13604)
+- CVE-2019-13621 (*reserved)
+- [CVE-2020-12135](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12135)
 
