@@ -45,15 +45,15 @@ IEEE ICINIS 2011, Kunming, China, Nov. 2011. <br/>
 
 Patents
 ======
-- 센서 네트워크에서 태그 노드 셀 판별 방법, KR patent, 1010646860000
-- 선형 회귀 기법을 이용한 실시간 위치 판별 가능한 모바일 단말 및 그 방법, KR patent, 1020120045590
-- 가상 머신 환경의 네트워크 입출력 장치 가상화 방법 및 장치, KR patent, 1017167150000
+- Method for cell position calculation of tag node in sensor network, KR patent, 1010646860000
+- Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof, KR patent, 1020120045590
+- Method and apparatus for handling network I/O apparatus virtualization, KR patent, 1017167150000
 - Apparatus and method for collecting audit trail in virtual machine boot process, US patent, US15/938017
 - Apparatus for monitoring file access in virtual machine and method for the same, US patent, US15/938003
 - Apparatus and method for storing audit trail in response to virtual-machine process execution, US patent, US15/975932
-- 가상 머신 내부의 파일 접근 모니터링 장치 및 그 방법, KR patent, 1019317790000
-- 가상머신 프로세스 실행에 따른 감사 증적 저장 장치 및 방법, KR patent, 1019379350000
-- 가상머신 부팅 과정에서의 감사 증적 수집 장치 및 방법, KR patent, 1020089520000
+- APPARATUS FOR MONITORING FILE ACCESS IN VIRTUAL MACHINE AND METHOD FOR THE SAME, KR patent, 1019317790000
+- APPARATUS AND METHOD FOR STORING AUDIT TRAIL ACCORDING TO VIRTUAL MACHINE PROCESS EXECUTION, KR patent, 1019379350000
+- APPARATUS AND METHOD FOR COLLECTING AUDITING TRAIL DURING VIRTUAL MACHINE BOOT PROCESS, KR patent, 1020089520000
 
 Talks
 ======
