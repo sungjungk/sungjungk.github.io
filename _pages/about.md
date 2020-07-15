@@ -45,15 +45,25 @@ IEEE ICINIS 2011, Kunming, China, Nov. 2011. <br/>
 
 Patents
 ======
-- Method for cell position calculation of tag node in sensor network, KR patent, 1010646860000
-- Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof, KR patent, 1020120045590
-- Method and apparatus for handling network I/O apparatus virtualization, KR patent, 1017167150000
-- Apparatus and method for collecting audit trail in virtual machine boot process, US patent, US15/938017
-- Apparatus for monitoring file access in virtual machine and method for the same, US patent, US15/938003
-- Apparatus and method for storing audit trail in response to virtual-machine process execution, US patent, US15/975932
-- APPARATUS FOR MONITORING FILE ACCESS IN VIRTUAL MACHINE AND METHOD FOR THE SAME, KR patent, 1019317790000
-- APPARATUS AND METHOD FOR STORING AUDIT TRAIL ACCORDING TO VIRTUAL MACHINE PROCESS EXECUTION, KR patent, 1019379350000
-- APPARATUS AND METHOD FOR COLLECTING AUDITING TRAIL DURING VIRTUAL MACHINE BOOT PROCESS, KR patent, 1020089520000
+- **Method for cell position calculation of tag node in sensor network** <br/>
+  KR patent, 1010646860000
+
+- **Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof** <br/> 
+  KR patent, 1020120045590
+- **Method and apparatus for handling network I/O apparatus virtualization** <br/>
+  KR patent, 1017167150000
+- **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
+  US patent, US15/938017
+- **Apparatus for monitoring file access in virtual machine and method for the same** <br/> 
+  US patent, US15/938003
+- **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
+  US patent, US15/975932
+- **Apparatus for monitoring file access in virtual machine and method for the same** <br/>
+  KR patent, 1019317790000
+- **Apparatus and method for storing audit trail according to virtual machine process execution** <br/>
+  KR patent, 1019379350000
+- **Apparatus and method for collecting auditing trail during virtual machine boot process** <br/>
+  KR patent, 1020089520000
 
 Talks
 ======
