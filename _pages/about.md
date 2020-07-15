@@ -42,28 +42,27 @@ KSII Transactions on Internet and Information Systems, vol. 7, no. 2, pp. 253-27
 IEEE ICINIS 2011, Kunming, China, Nov. 2011. <br/>
 [paper](https://ieeexplore.ieee.org/document/6104709)
 
+Thesis
+======
+- **A Wireless Virtual Machine Migration Scheme to Resolve Traffic Interference for Data Center Network** <br/>
+  Master's Thesis, POSTECH
+
 
 Patents
 ======
 - **Method for cell position calculation of tag node in sensor network** <br/>
-  KR patent, 1010646860000
-
+  KR patent: 1010646860000
 - **Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof** <br/> 
-  KR patent, 1020120045590
+  KR patent: 1020120045590
 - **Method and apparatus for handling network I/O apparatus virtualization** <br/>
-  KR patent, 1017167150000
+  KR patent: 1017167150000
 - **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
-  US patent, US15/938017
+  US patent: US15/938017,  KR patent: 1020089520000
 - **Apparatus for monitoring file access in virtual machine and method for the same** <br/> 
-  US patent, US15/938003
+  US patent: US15/938003, KR patent: 1019317790000
 - **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
-  US patent, US15/975932
-- **Apparatus for monitoring file access in virtual machine and method for the same** <br/>
-  KR patent, 1019317790000
-- **Apparatus and method for storing audit trail according to virtual machine process execution** <br/>
-  KR patent, 1019379350000
-- **Apparatus and method for collecting auditing trail during virtual machine boot process** <br/>
-  KR patent, 1020089520000
+  US patent: US15/975932, KR patent: 1019379350000
+  
 
 Talks
 ======
