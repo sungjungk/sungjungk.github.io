@@ -73,7 +73,7 @@ Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 201
 [slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
 
 
-Reported Vulnerability
+Reported Vulnerabilities
 ======
 
 - [CVE-2018-19358](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19358)
