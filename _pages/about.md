@@ -85,6 +85,6 @@ Reported Vulnerabilities
 - [CVE-2019-13621 (*reserved)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13621)
 - [CVE-2020-12135](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12135)  
 - [CVE-2020-15570](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15570)
-- [CVE-2020-11937 (*reserved)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11937)
-- [CVE-2020-15701 (*reserved)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15701)
+- [CVE-2020-11937](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11937)
+- [CVE-2020-15701](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15701)
 
