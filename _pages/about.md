@@ -72,6 +72,11 @@ Talks
 Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
 [slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
 
+- **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
+**Seong-Joong Kim** <br/>
+Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
+[slides](https://sched.co/eCDc)
+
 
 Reported Vulnerabilities
 ======
