@@ -75,7 +75,7 @@ Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 201
 - **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
 **Seong-Joong Kim** <br/>
 Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
-[slides](https://sched.co/eCDc)
+[slides](https://static.sched.com/hosted_files/osseu2020/2d/OSSEU_Demystifying%20Open%20Source%20Crash%20Reporter.pdf)
 
 
 Reported Vulnerabilities
