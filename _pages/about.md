@@ -55,13 +55,13 @@ Patents
 - **Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof** <br/> 
   KR patent: 1020120045590
 - **Method and apparatus for handling network I/O apparatus virtualization** <br/>
-  KR patent: 1017167150000
+  US patent: US10754679B2, KR patent: 1017167150000
 - **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
-  US patent: US15/938017,  KR patent: 1020089520000
+  US patent: US10776491B2,  KR patent: 1020089520000
 - **Apparatus for monitoring file access in virtual machine and method for the same** <br/> 
-  US patent: US15/938003, KR patent: 1019317790000
+  US patent: US20190044946A1, KR patent: 1019317790000
 - **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
-  US patent: US15/975932, KR patent: 1019379350000
+  US patent: US10802863B2, KR patent: 1019379350000
   
 
 Talks
