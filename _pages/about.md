@@ -51,17 +51,21 @@ Thesis
 Patents
 ======
 - **Method for cell position calculation of tag node in sensor network** <br/>
-  KR patent: 1010646860000
+  KR patent: 1010646860000  
 - **Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof** <br/> 
-  KR patent: 1020120045590
+  KR patent: 1020120045590  
 - **Method and apparatus for handling network I/O apparatus virtualization** <br/>
-  US patent: US10754679B2, KR patent: 1017167150000
+  US patent: US10754679B2, KR patent: 1017167150000  
+  [patent](https://patentimages.storage.googleapis.com/40/df/30/e47dddaa644ca0/US10754679.pdf)
 - **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
-  US patent: US10776491B2,  KR patent: 1020089520000
+  US patent: US10776491B2,  KR patent: 1020089520000  
+  [patent](https://patentimages.storage.googleapis.com/1b/1c/85/1d51ab7fa6cca3/US10776491.pdf)
 - **Apparatus for monitoring file access in virtual machine and method for the same** <br/> 
-  US patent: US20190044946A1, KR patent: 1019317790000
+  US patent: US20190044946A1, KR patent: 1019317790000  
+  [patent](https://patentimages.storage.googleapis.com/f3/af/70/7982622a8855b4/US20190044946A1.pdf)
 - **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
-  US patent: US10802863B2, KR patent: 1019379350000
+  US patent: US10802863B2, KR patent: 1019379350000  
+  [patent](https://patentimages.storage.googleapis.com/f3/b1/21/f4817740d53b66/US10802863.pdf)
   
 
 Talks
