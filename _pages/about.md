@@ -28,7 +28,7 @@ IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017. (SCIE, Impact 
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** (single author) <br/>
 Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor: 1.232) <br/>
-[paper](https://ieeexplore.ieee.org/document/7444256)
+[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
 - **A Self-Calibrated Localization System using Chirp Spread Spectrum in a Wireless Sensor Network** <br/>
