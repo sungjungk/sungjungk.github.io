@@ -37,11 +37,6 @@ KSII Transactions on Internet and Information Systems, vol. 7, no. 2, pp. 253-27
 [paper](http://www.itiis.org/digital-library/manuscript/480)
 
 
-- **Network Bridge System for Inter-operation of ZigBee-UPnP Network** <br/>
-**Seong-Joong Kim**, Hae-Moon Seo, Woo-Chool Park, and Seong-Dong Kim <br/>
-IEEE ICINIS 2011, Kunming, China, Nov. 2011. <br/>
-[paper](https://ieeexplore.ieee.org/document/6104709)
-
 Thesis
 ======
 - **A Wireless Virtual Machine Migration Scheme to Resolve Traffic Interference for Data Center Network** <br/>
