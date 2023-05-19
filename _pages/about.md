@@ -8,33 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of research staff at Attached Institute of ETRI. 
+I am a senior researcher at the Attached Institute of ETRI. 
 Prior to that, I was a researcher at TmaxSoft R&D Center for alternative service as mandatory military service duty. 
-Also, I interned at Samsung Electronics in the capacity of a Software Engineer. 
-I am also a recipient of the Samsung Electronics Scholarship.
+Also, I interned at Samsung Electronics as a Software Engineer. 
+I was a recipient of the Samsung Electronics Semiconductor Scholarship.
 
-My research interests are all aspects of computer security with a current focus on making Linux distributions more secure. 
+My research interests are all aspects of computer security with a current focus on system security for cloud infrastructure. 
 
 
 Publications
 ======
-
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** (single author) <br/>
 IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017. (SCIE, Impact Factor: 4.337) <br/>
 [paper](https://ieeexplore.ieee.org/abstract/document/7331284) 
-
-
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** (single author) <br/>
 Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor: 1.232) <br/>
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
-
-
-- **A Self-Calibrated Localization System using Chirp Spread Spectrum in a Wireless Sensor Network** <br/>
-**Seong-Joong Kim** and Dong-Joo Park (corresponding author) <br/>
-KSII Transactions on Internet and Information Systems, vol. 7, no. 2, pp. 253-270, Feb. 2013. (SCIE, Impact Factor: 0.611) <br/>
-[paper](http://www.itiis.org/digital-library/manuscript/480)
 
 
 Thesis
@@ -45,10 +36,6 @@ Thesis
 
 Patents
 ======
-- **Method for cell position calculation of tag node in sensor network** <br/>
-  KR patent: 1010646860000  
-- **Mobile terminal capable of determining the location of the terminal using linear regression model and method thereof** <br/> 
-  KR patent: 1020120045590  
 - **Method and apparatus for handling network I/O apparatus virtualization** <br/>
   US patent: US10754679B2, KR patent: 1017167150000  
   [patent](https://patentimages.storage.googleapis.com/40/df/30/e47dddaa644ca0/US10754679.pdf)
@@ -61,16 +48,17 @@ Patents
 - **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
   US patent: US10802863B2, KR patent: 1019379350000  
   [patent](https://patentimages.storage.googleapis.com/f3/b1/21/f4817740d53b66/US10802863.pdf)
+- **Apparatus and method for preventing security threat to virtual machine** <br/>
+  US patent: US20230016571A1  
+  [patent](https://patentimages.storage.googleapis.com/5e/71/1c/fde386cc53e8be/US20230016571A1.pdf)
   
 
 Talks
 ======
-
 - **Broken Fingers: A Deep Dive Into Open Source Fingerprint Authentication and its Security Issues** <br/>
 **Seong-Joong Kim** <br/>
 Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
 [slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
-
 - **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
 **Seong-Joong Kim** <br/>
 Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
@@ -79,7 +67,6 @@ Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
 
 Reported Vulnerabilities
 ======
-
 - [CVE-2018-19358](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19358)
 - [CVE-2018-20781](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20781)
 - [CVE-2018-20840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20840)
