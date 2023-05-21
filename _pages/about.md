@@ -28,12 +28,6 @@ Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
-Thesis
-======
-- **A Wireless Virtual Machine Migration Scheme to Resolve Traffic Interference for Data Center Network** <br/>
-  Master's Thesis, POSTECH
-
-
 Patents
 ======
 - **Method and apparatus for handling network I/O apparatus virtualization** <br/>
