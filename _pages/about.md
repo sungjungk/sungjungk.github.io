@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at the Attached Institute of ETRI. 
+I am a Ph.D student at KAIST, and I am currently a senior researcher at the Attached Institute of ETRI. 
 Prior to that, I was a researcher at TmaxSoft R&D Center for alternative service as mandatory military service duty. 
 Also, I interned at Samsung Electronics as a Software Engineer. 
 I was a recipient of the Samsung Electronics Semiconductor Scholarship.
