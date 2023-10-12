@@ -18,6 +18,10 @@ My research interests are all aspects of computer security with a current focus 
 
 Publications
 ======
+- **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
+**Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, Seungwon Shin <br/>
+In Proceedings of 14th ACM Symposium on Cloud Computing (SoCC), October 2023.  <br/>
+
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** (single author) <br/>
 IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017. (SCIE, Impact Factor: 4.337) <br/>
