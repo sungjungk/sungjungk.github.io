@@ -21,6 +21,7 @@ Publications
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
 **Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, Seungwon Shin <br/>
 In Proceedings of 14th ACM Symposium on Cloud Computing (SoCC), October 2023.  <br/>
+[paper](https://dl.acm.org/doi/pdf/10.1145/3620678.3624789)
 
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** (single author) <br/>
