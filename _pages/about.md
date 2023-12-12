@@ -18,6 +18,10 @@ My research interests are all aspects of computer security with a current focus 
 
 Publications
 ======
+- **Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages** <br/>
+Seunghun Han, **Seong-Joong Kim**, Wook Shin, Byung Joon Kim, Jae-Cheol Ryou <br/>
+USENIX Security 2024 (Accepted)  <br/>
+
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
 **Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, Seungwon Shin <br/>
 In Proceedings of 14th ACM Symposium on Cloud Computing (SoCC), October 2023.  <br/>
