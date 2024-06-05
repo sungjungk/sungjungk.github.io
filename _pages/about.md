@@ -21,6 +21,7 @@ Publications
 - **Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages** <br/>
 Seunghun Han, **Seong-Joong Kim**, Wook Shin, Byung Joon Kim, Jae-Cheol Ryou <br/>
 USENIX Security 2024 (Accepted)  <br/>
+[paper](https://www.usenix.org/system/files/sec24summer-prepub-318-han.pdf)
 
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
 **Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, Seungwon Shin <br/>
