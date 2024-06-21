@@ -19,22 +19,22 @@ My research interests are all aspects of computer security with a current focus 
 Publications
 ======
 - **Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages** <br/>
-Seunghun Han, **Seong-Joong Kim**, Wook Shin, Byung Joon Kim, Jae-Cheol Ryou <br/>
+Seunghun Han, **Seong-Joong Kim**, Wook Shin, Byung Joon Kim, and Jae-Cheol Ryou <br/>
 USENIX Security 2024 (Accepted)  <br/>
 [paper](https://www.usenix.org/system/files/sec24summer-prepub-318-han.pdf)
 
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
-**Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, Seungwon Shin <br/>
+**Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, and Seungwon Shin <br/>
 In Proceedings of 14th ACM Symposium on Cloud Computing (SoCC), October 2023.  <br/>
 [paper](https://dl.acm.org/doi/pdf/10.1145/3620678.3624789)
 
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
-**Seong-Joong Kim** (single author) <br/>
-IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017. (SCIE, Impact Factor: 4.337) <br/>
+**Seong-Joong Kim** <br/>
+IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017.  <br/>
 [paper](https://ieeexplore.ieee.org/abstract/document/7331284) 
 - **New virtualised AP for independent wireless network composition** <br/>
-**Seong-Joong Kim** (single author) <br/>
-Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. (SCI, Impact Factor: 1.232) <br/>
+**Seong-Joong Kim** <br/>
+Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. <br/>
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
