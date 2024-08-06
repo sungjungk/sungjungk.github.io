@@ -69,17 +69,3 @@ Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
 [slides](https://static.sched.com/hosted_files/osseu2020/2d/OSSEU_Demystifying%20Open%20Source%20Crash%20Reporter.pdf)
 
 
-Reported Vulnerabilities
-======
-- [CVE-2018-19358](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19358)
-- [CVE-2018-20781](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20781)
-- [CVE-2018-20840](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20840)
-- [CVE-2019-12813](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12813)
-- [CVE-2019-13603](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13603)
-- [CVE-2019-13604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13604)
-- [CVE-2019-13621 (*reserved)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-13621)
-- [CVE-2020-12135](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12135)  
-- [CVE-2020-15570](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15570)
-- [CVE-2020-11937](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11937)
-- [CVE-2020-15701](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-15701)
-
