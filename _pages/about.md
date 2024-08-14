@@ -40,7 +40,7 @@ Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. <br/>
 
 Patents
 ======
-- **Method and apparatus for handling network I/O apparatus virtualization** <br/>
+- **Method and apparatus for handling network I/O device virtualization** <br/>
   US patent: US10754679B2, KR patent: 1017167150000  
   [patent](https://patentimages.storage.googleapis.com/40/df/30/e47dddaa644ca0/US10754679.pdf)
 - **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
