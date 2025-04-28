@@ -66,12 +66,12 @@ Talks
 ======
 - **Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming** <br/>
 Seunghun Han, **Seong-Joong Kim**, and Wook Shin <br/>
-Black Hat USA. 2023 <br/>
+BlackHat USA. 2023 <br/>
 [slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Han-Lost-Control-Breaking-Hardware-Assisted-Kernel.pdf)
 
 - **Alcatraz : A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVMBased MicroVMs** <br/>
 Seunghun Han, **Seong-Joong Kim**, Gaksoo Lim and Byungjoon Kim <br/>
-Black Hat USA. 2021 <br/>
+BlackHat USA. 2021 <br/>
 [slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Han-Alcatraz-A-Practical-Hypervisor-Sandbox-To-Prevent-Escapes-From-The-KVMQEMU-And-KVM-Based-MicroVMs.pdf)
 
 - **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
