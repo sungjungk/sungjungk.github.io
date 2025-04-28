@@ -64,13 +64,25 @@ Patents
 
 Talks
 ======
-- **Broken Fingers: A Deep Dive Into Open Source Fingerprint Authentication and its Security Issues** <br/>
-**Seong-Joong Kim** <br/>
-Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
-[slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
+- **Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming** <br/>
+Seunghun Han, **Seong-Joong Kim**, and Wook Shin <br/>
+Black Hat USA. 2023 <br/>
+[slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Han-Lost-Control-Breaking-Hardware-Assisted-Kernel.pdf)
+
+- **Alcatraz : A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVMBased MicroVMs** <br/>
+Seunghun Han, **Seong-Joong Kim**, Gaksoo Lim and Byungjoon Kim <br/>
+Black Hat USA. 2021 <br/>
+[slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Han-Alcatraz-A-Practical-Hypervisor-Sandbox-To-Prevent-Escapes-From-The-KVMQEMU-And-KVM-Based-MicroVMs.pdf)
+
 - **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
 **Seong-Joong Kim** <br/>
 Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
 [slides](https://static.sched.com/hosted_files/osseu2020/2d/OSSEU_Demystifying%20Open%20Source%20Crash%20Reporter.pdf)
+
+- **Broken Fingers: A Deep Dive Into Open Source Fingerprint Authentication and its Security Issues** <br/>
+**Seong-Joong Kim** <br/>
+Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
+[slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
+
 
 
