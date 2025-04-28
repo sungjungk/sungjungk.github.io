@@ -36,7 +36,8 @@ ACM SoCC, October 2023.  <br/>
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** <br/>
 IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017.  <br/>
-[paper](https://ieeexplore.ieee.org/abstract/document/7331284) 
+[paper](https://ieeexplore.ieee.org/abstract/document/7331284)
+
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** <br/>
 Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. <br/>
@@ -48,15 +49,19 @@ Patents
 - **Method and apparatus for handling network I/O device virtualization** <br/>
   US patent: US10754679B2, KR patent: 1017167150000  
   [patent](https://patentimages.storage.googleapis.com/40/df/30/e47dddaa644ca0/US10754679.pdf)
+  
 - **Apparatus and method for collecting audit trail in virtual machine boot process** <br/>
   US patent: US10776491B2,  KR patent: 1020089520000  
   [patent](https://patentimages.storage.googleapis.com/1b/1c/85/1d51ab7fa6cca3/US10776491.pdf)
+  
 - **Apparatus for monitoring file access in virtual machine and method for the same** <br/> 
   US patent: US20190044946A1, KR patent: 1019317790000  
   [patent](https://patentimages.storage.googleapis.com/f3/af/70/7982622a8855b4/US20190044946A1.pdf)
+  
 - **Apparatus and method for storing audit trail in response to virtual-machine process execution** <br/>
   US patent: US10802863B2, KR patent: 1019379350000  
   [patent](https://patentimages.storage.googleapis.com/f3/b1/21/f4817740d53b66/US10802863.pdf)
+  
 - **Apparatus and method for preventing security threat to virtual machine** <br/>
   US patent: US20230016571A1  
   [patent](https://patentimages.storage.googleapis.com/5e/71/1c/fde386cc53e8be/US20230016571A1.pdf)
@@ -69,7 +74,7 @@ Seunghun Han, **Seong-Joong Kim**, and Wook Shin <br/>
 BlackHat USA. 2023 <br/>
 [slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Han-Lost-Control-Breaking-Hardware-Assisted-Kernel.pdf)
 
-- **Alcatraz : A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVMBased MicroVMs** <br/>
+- **Alcatraz : A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVM-Based MicroVMs** <br/>
 Seunghun Han, **Seong-Joong Kim**, Gaksoo Lim and Byungjoon Kim <br/>
 BlackHat USA. 2021 <br/>
 [slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Han-Alcatraz-A-Practical-Hypervisor-Sandbox-To-Prevent-Escapes-From-The-KVMQEMU-And-KVM-Based-MicroVMs.pdf)
