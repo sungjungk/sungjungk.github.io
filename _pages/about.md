@@ -8,39 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student at KAIST, and I am currently a senior researcher at the Attached Institute of ETRI. 
-Prior to that, I was a researcher at TmaxSoft for alternative service as mandatory military service duty. 
-Also, I interned at Samsung Electronics as a Software Engineer. 
-I was a recipient of the Samsung Electronics Semiconductor Scholarship.
+I am currently a Senior Researcher at the Attached Institute of ETRI, where I focus on trustworthy cloud systems, including confidential computing. 
+I received my Ph.D. in Computer Science from KAIST under the supervision of Prof. [Seungwon Shin](https://nss.kaist.ac.kr/?page_id=29). 
+Previously, I interned at Samsung Electronics as a Software Engineer. 
+I was also a recipient of the Samsung Electronics Semiconductor Scholarship.
 
-My research interests are all aspects of computer security with a current focus on system security for cloud infrastructure. 
 
+Research Interests
+======
+Computer systems, cloud computing, and computer security, with a focus on trustworthy and confidential cloud infrastructure
 
 Publications
 ======
+- **TDSnap: Enabling Secure Function-as-a-Service with Trusted Domain Snapshots** <br/>
+  **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
+  IEEE/ACM DAC 2026 (accepted) (BK21+ Top conference) <br/>
+
 - **CR-ATTACKER: Exploiting Crash-reporting Systems using Timing Gap and Unrestricted File-based Workflow** <br/>
 **Seong-Joong Kim**, Myoungsung You, and Seungwon Shin <br/>
-IEEE Access, March 2025. <br/>
+IEEE Access, March 2025 <br/>
 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937218)
 
 - **Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages** <br/>
 Seunghun Han, **Seong-Joong Kim**, Wook Shin, Byung Joon Kim, and Jae-Cheol Ryou <br/>
-USENIX Security 2024, August 2024. <br/>
+USENIX Security 2024, August 2024 (BK21+ Top conference) <br/>
 [paper](https://www.usenix.org/system/files/sec24summer-prepub-318-han.pdf)
 
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br/>
 **Seong-Joong Kim**, Myoungsung You, Byung Joon Kim, and Seungwon Shin <br/>
-ACM SoCC, October 2023.  <br/>
+ACM SoCC, October 2023 (BK21+ Top conference) <br/>
 [paper](https://dl.acm.org/doi/pdf/10.1145/3620678.3624789)
 
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** <br/>
-IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017.  <br/>
+IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017  <br/>
 [paper](https://ieeexplore.ieee.org/abstract/document/7331284)
 
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** <br/>
-Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016. <br/>
+Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016 <br/>
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
@@ -71,22 +77,22 @@ Talks
 ======
 - **Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming** <br/>
 Seunghun Han, **Seong-Joong Kim**, and Wook Shin <br/>
-BlackHat USA. 2023 <br/>
+BlackHat USA 2023 <br/>
 [slides](https://i.blackhat.com/BH-US-23/Presentations/US-23-Han-Lost-Control-Breaking-Hardware-Assisted-Kernel.pdf)
 
 - **Alcatraz : A Practical Hypervisor Sandbox to Prevent Escapes from the KVM/QEMU and KVM-Based MicroVMs** <br/>
 Seunghun Han, **Seong-Joong Kim**, Gaksoo Lim and Byungjoon Kim <br/>
-BlackHat USA. 2021 <br/>
+BlackHat USA 2021 <br/>
 [slides](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Han-Alcatraz-A-Practical-Hypervisor-Sandbox-To-Prevent-Escapes-From-The-KVMQEMU-And-KVM-Based-MicroVMs.pdf)
 
 - **Demystifying Open Source Crash Reporter: An In-depth Security Analysis** <br/>
 **Seong-Joong Kim** <br/>
-Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020. <br/>
+Open Source Summit Europe 2020, Linux Foundation, Virtual, Oct. 2020 <br/>
 [slides](https://static.sched.com/hosted_files/osseu2020/2d/OSSEU_Demystifying%20Open%20Source%20Crash%20Reporter.pdf)
 
 - **Broken Fingers: A Deep Dive Into Open Source Fingerprint Authentication and its Security Issues** <br/>
 **Seong-Joong Kim** <br/>
-Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019. <br/>
+Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 2019 <br/>
 [slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
 
 
