@@ -26,7 +26,7 @@ Publications
 
 - **TDSnap: Enabling Secure Function-as-a-Service with Trusted Domain Snapshots** <br/>
   **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
-  IEEE/ACM DAC 2026 (accepted) (BK21+ Top conference) <br/>
+  ACM/IEEE DAC 2026 (accepted) (BK21+ Top conference) <br/>
 
 - **CR-ATTACKER: Exploiting Crash-reporting Systems using Timing Gap and Unrestricted File-based Workflow** <br/>
 **Seong-Joong Kim**, Myoungsung You, and Seungwon Shin <br/>
