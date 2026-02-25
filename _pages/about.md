@@ -20,6 +20,10 @@ Computer systems, cloud computing, and computer security, with a focus on trustw
 
 Publications
 ======
+- **AccelFaaS: Accelerating FaaS via Prewarmed Memory and Control Channel Offloading** <br/>
+  **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
+  IEEE Transactions on Cloud Computing (in minor revision) <br/>
+
 - **TDSnap: Enabling Secure Function-as-a-Service with Trusted Domain Snapshots** <br/>
   **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
   IEEE/ACM DAC 2026 (accepted) (BK21+ Top conference) <br/>
