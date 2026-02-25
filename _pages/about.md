@@ -46,7 +46,7 @@ IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017  <br/>
 
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** <br/>
-Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016 <br/>
+IET Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016 <br/>
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
