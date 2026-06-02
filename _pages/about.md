@@ -46,12 +46,12 @@ ACM SoCC, October 2023 (BK21+ Top conference) <br/>
 
 - **Appliance Recognition Unit for Home Energy Management System With UPnP Network** <br/>
 **Seong-Joong Kim** <br/>
-IEEE Systems Journal, vol. 11, no. 4, pp. 2794 - 2803, Dec. 2017  <br/>
+IEEE Systems Journal, December 2017  <br/>
 [paper](https://ieeexplore.ieee.org/abstract/document/7331284)
 
 - **New virtualised AP for independent wireless network composition** <br/>
 **Seong-Joong Kim** <br/>
-IET Electronics Letters, vol. 52, no. 7, pp. 562-564, Mar. 2016 <br/>
+IET Electronics Letters, March 2016 <br/>
 [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2015.4200)
 
 
