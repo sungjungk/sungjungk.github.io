@@ -26,7 +26,7 @@ Publications
 
 - **AccelFaaS: Accelerating FaaS via Prewarmed Memory and Control Channel Offloading** <br/>
   **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
-  IEEE Transactions on Cloud Computing <br/>
+  IEEE Transactions on Cloud Computing, March 2026 <br/>
   [paper](https://ieeexplore.ieee.org/document/11435276)
 
 - **CR-ATTACKER: Exploiting Crash-reporting Systems using Timing Gap and Unrestricted File-based Workflow** <br/>
