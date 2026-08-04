@@ -22,7 +22,7 @@ Publications
 ======
 - **TDSnap: Enabling Secure Function-as-a-Service with Trusted Domain Snapshots** <br/>
   **Seong-Joong Kim**, Seungwon Shin, and Myoungsung You <br/>
-  ACM/IEEE DAC 2026 (accepted) (BK21+ Top conference) <br/>
+  ACM/IEEE DAC 2026 (BK21+ Top conference) <br/>
   [paper](https://63dac.conference-program.com/presentation/?id=RESEARCH876&sess=sess107)
 
 - **AccelFaaS: Accelerating FaaS via Prewarmed Memory and Control Channel Offloading** <br/>
