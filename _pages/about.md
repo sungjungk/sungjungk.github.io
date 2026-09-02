@@ -102,4 +102,9 @@ Open Source Summit North America 2019, Linux Foundation, San Diego, CA, Aug. 201
 [slides](https://static.sched.com/hosted_files/ossna19/4a/BrokenFingers_OSSNA2019.pdf)
 
 
-
+Ph.D. Dissertation
+======
+- **Designing Secure and High-Performance Data Planes for Modern Serverless Computing** <br/> 
+**Seong-Joong Kim**<br/>
+School of Computing, KAIST, 2026<br/>
+[paper]()
